@@ -1,0 +1,19 @@
+# Writeups and drafts
+first draft/
+first draft.zip
+baseball_terminal_state/writeup/
+baseball_terminal_state/session_*_summary.md
+
+# macOS
+.DS_Store
+
+# Claude config
+.claude/
+
+# Python
+__pycache__/
+*.pyc
+
+# Loose CSVs in root of baseball_terminal_state (duplicates of data/)
+baseball_terminal_state/primary_2023_pitches.csv
+baseball_terminal_state/secondary_2023_pa.csv
